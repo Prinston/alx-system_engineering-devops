@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 boss boss 4096 Sep  4 19:42 .
+drwxrwxr-x 6 boss boss 4096 Sep  4 14:53 ..
+-rwxrw-r-- 1 boss boss   33 Sep  4 15:28 0-hello_world
+-rwxrw-r-- 1 boss boss   28 Sep  4 15:33 1-confused_smiley
+-rwxrw-r-- 1 boss boss   28 Sep  4 15:36 2-hellofile
+-rwxrw-r-- 1 boss boss   39 Sep  4 15:50 3-twofiles
+-rwxrw-r-- 1 boss boss   36 Sep  4 15:54 4-lastlines
+-rwxrw-r-- 1 boss boss   35 Sep  4 15:55 5-firstlines
+-rwxrw-r-- 1 boss boss   41 Sep  4 16:02 6-third_line
+-rwxrw-r-- 1 boss boss  103 Sep  4 19:36 7-file
+-rwxrw-r-- 1 boss boss   37 Sep  4 19:41 8-cwd_state
+-rw-rw-r-- 1 boss boss   40 Sep  4 17:04 \*\\'"Best
+-rw-rw-r-- 1 boss boss   12 Sep  4 19:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 boss boss    0 Sep  4 19:42 ls_cwd_content
+-rw-rw-r-- 1 boss boss   61 Sep  4 14:55 README.md
