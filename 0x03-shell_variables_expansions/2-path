@@ -1,5 +1,0 @@
-#!/bin/bash
-export PATH=/action
-export PATH=$PATH:/usr/bin
-
-
