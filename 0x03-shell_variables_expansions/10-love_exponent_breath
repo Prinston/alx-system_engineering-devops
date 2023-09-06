@@ -1,3 +1,8 @@
 #!/bin/bash
-echo $(($BREATH**$LOVE))
+BREATH=2
+LOVE=3
+
+result=$((BREATH ** LOVE))
+
+echo "BREATH to the power of LOVE is $result"
 
